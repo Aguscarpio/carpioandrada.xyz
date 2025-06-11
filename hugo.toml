@@ -39,7 +39,7 @@ pygmentsUseClasses  = true
 
 rssLimit = 10
 
-copyright = "CHANGE ME"
+# copyright = ""
 enableEmoji = true
 
 #[services]
@@ -92,8 +92,8 @@ expiryDate = ["expiryDate"]
   accentColor = "#018472"
 
   #homeSubtitle = "CHANGE ME HOME SUBTITLE"
-  footerCopyright = "CHANGE ME FOOTER COPYRIGHT"
-  # footerHideThemeName = false
+  footerCopyright = "© 2022 - 2025 Agustín Carpio Andrada – All rights reserved"
+  footerHideThemeName = true
   # bgImg = ""
   # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
 
@@ -108,7 +108,7 @@ expiryDate = ["expiryDate"]
   readTime = true
   readTimeSeparator = "CHANGE ME READ TIME"
   # legacyLayout = false
-  shareSocial = true
+  shareSocial = false
   # googleTagManager = "GTM-XXXXXXXX"
   # tagSymbol = "#"
   # categorySymbol = "⊲"
@@ -129,17 +129,17 @@ expiryDate = ["expiryDate"]
     enable = true
     thumbnail = '300'
 
-  [[params.socialLinks]]
-    name = "mastodon"
-    url = "https://joinmastodon.org/"
+  # [[params.socialLinks]]
+    # name = "mastodon"
+    # url = "https://joinmastodon.org/"
 
-  [[params.socialLinks]]
-    name = "x"
-    url = "https://twitter.com/"
+  # [[params.socialLinks]]
+    # name = "x"
+    # url = "https://twitter.com/"
 
-  [[params.socialLinks]]
-    name = "github"
-    url = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
+  # [[params.socialLinks]]
+    # name = "github"
+    # url = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
 
 [menu]
 
