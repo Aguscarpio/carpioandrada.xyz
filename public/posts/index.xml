@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Wed, 11 Jun 2025 15:52:30 -0300</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description></description>
+      <description>&lt;p&gt;This is my first post. I&amp;rsquo;m just making sure everything works as expected.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

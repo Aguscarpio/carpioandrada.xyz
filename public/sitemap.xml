@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-06-11T16:25:22-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-11T16:25:22-03:00</lastmod>
+    <lastmod>2025-06-11T15:52:30-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hello-world/</loc>
     <lastmod>2025-06-11T15:52:30-03:00</lastmod>
@@ -19,6 +16,11 @@
   </url><url>
     <loc>http://localhost:1313/tags/untagged/</loc>
     <lastmod>2025-06-11T15:52:30-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cv/</loc>
+    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/knowledge-portal/</loc>
   </url>

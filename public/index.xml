@@ -6,21 +6,21 @@
     <description>Recent content on Agustin Carpio Andrada</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jun 2025 16:25:22 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 15:52:30 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Wed, 11 Jun 2025 16:25:22 -0300</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Wed, 11 Jun 2025 15:52:30 -0300</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description></description>
+      <description>&lt;p&gt;This is my first post. I&amp;rsquo;m just making sure everything works as expected.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Currículum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h2 id=&#34;resumen&#34;&gt;Resumen&lt;a href=&#34;#resumen&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Becario Doctoral del CONICET en Física (Laboratorio de Sistemas Dinámicos) y Licenciado en Ciencias Biológicas, con especialización en Fisiología Animal y Neurociencias. Me desempeño en un entorno interdisciplinario aplicando herramientas de modelado matemático, simulaciones computacionales y teoría de sistemas dinámicos no lineales para abordar preguntas fundamentales de la Neurociencia. Mi investigación se centra en la dinámica de los procesos sensorimotores del comportamiento animal y el papel del aprendizaje en su modulación, particularmente en la producción vocal aviar.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -67,7 +67,7 @@ expiryDate = ["expiryDate"]
 [taxonomies]
   tag = "tags"
   # Categories are disabled by default.
-  # category = "categories"
+  category = "categories"
 
 # Enable to get proper Mathjax support
 #[markup]
@@ -106,7 +106,7 @@ expiryDate = ["expiryDate"]
   scrollToTop = true
   global_mathjax = false
   readTime = true
-  readTimeSeparator = "CHANGE ME READ TIME"
+  readTimeSeparator = "⏰ "
   # legacyLayout = false
   shareSocial = false
   # googleTagManager = "GTM-XXXXXXXX"
@@ -170,5 +170,5 @@ expiryDate = ["expiryDate"]
 
   [[menu.main]]
     name = "About"
-    url = "about-hugo/"
+    url = "about"
     weight = 20
