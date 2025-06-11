@@ -19,5 +19,7 @@
   </url><url>
     <loc>http://localhost:1313/tags/untagged/</loc>
     <lastmod>2025-06-11T15:52:30-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledge-portal/</loc>
   </url>
 </urlset>

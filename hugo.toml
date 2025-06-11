@@ -146,7 +146,27 @@ expiryDate = ["expiryDate"]
   [[menu.main]]
     name = "Posts"
     url = "posts/"
-    weight = 10
+    weight = 1
+
+  [[menu.main]]
+    name = "Code"
+    url = "code/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Research"
+    url = "research/"
+    weight = 2
+
+    [[menu.main]]
+    name = "Knowledge Portal"
+    url = "knowledge-portal/"
+    weight = 9
+
+  [[menu.main]]
+    name = "Teaching"
+    url = "teaching/"
+    weight = 8
 
   [[menu.main]]
     name = "About"
