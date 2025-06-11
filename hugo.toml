@@ -56,8 +56,8 @@ expiryDate = ["expiryDate"]
 
 
 [params.author]
-  name = "CHANGE SITE AUTHOR"
-  about = "CHANGE SITE AUTHOR ABOUT"
+  name = "Agustin Carpio Andrada"
+  about = "about"
 
 [blackfriday]
   # hrefTargetBlank = true
