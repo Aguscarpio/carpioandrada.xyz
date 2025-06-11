@@ -7,7 +7,7 @@
 baseURL = "https://carpioandrada.xyz/"
 title = "Agustin Carpio Andrada"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 theme = "hermit-v2"
 enableRobotsTXT = true ## set to true to enable inbuilt robots.txt
 
