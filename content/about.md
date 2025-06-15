@@ -3,9 +3,7 @@ title: "Currículum Vitae"
 date: 2025-06-09
 type: "page"
 layout: "cv"
-lang: "es"
 slug: "cv"
-translationKey: "cv-page"
 aliases: ["/about", "/curriculum", "/curriculum-vitae"]
 ---
 

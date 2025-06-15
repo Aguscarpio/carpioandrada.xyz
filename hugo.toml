@@ -154,8 +154,8 @@ expiryDate = ["expiryDate"]
     weight = 4
 
   [[menu.main]]
-    name = "Research"
-    url = "research/"
+    name = "Publications"
+    url = "research"
     weight = 2
 
     [[menu.main]]
