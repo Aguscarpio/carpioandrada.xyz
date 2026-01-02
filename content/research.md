@@ -11,19 +11,18 @@ aliases: ["/research", "/publications"]
 ### 2025
 
 - **Agustin Carpio Andrada**, Gabriel B. Mindlin.
-  *Decomposition of respiratory motor patterns during birdsong production in terms of excitable transients*.
-  *Chaos, Solitons & Fractals*. **Under review**.
+  *[Decomposition of respiratory motor patterns during birdsong production in terms of excitable transients](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xzMOTNgAAAAJ&citation_for_view=xzMOTNgAAAAJ:2osOgNQ5qMEC)*.
+  *Chaos, Solitons & Fractals*, **200**, 117100, 2025.
 
 - **Agustin Carpio Andrada**, Gabriel B. Mindlin.
-  *The dynamics of sensorimotor integration*.
-  In: *Nonlinear Dynamics in Biological Systems*, SEMA-SIMAI-Springer Series. **In press**.
+  *[The Dynamics of Sensorimotor Integration](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xzMOTNgAAAAJ&citation_for_view=xzMOTNgAAAAJ:qjMakFHDy7sC)*.
+  In: *Nonlinear Dynamics for Biological Systems*, 3-18, 2025.
 
 ### 2024
 
 - Leandro E. Fernandez, **Agustin Carpio**, Jiaming Wu, Stefano Boccaletti, Marcelo Rozenberg, Gabriel B. Mindlin.
-  *A model for an electronic spiking neuron built with a memristive voltage-gated element*.
+  *[A model for an electronic spiking neuron built with a memristive voltage-gated element](https://doi.org/10.1016/j.chaos.2024.114555)*.
   *Chaos, Solitons & Fractals*, **180**, 2024, 114555.
-  [https://doi.org/10.1016/j.chaos.2024.114555](https://doi.org/10.1016/j.chaos.2024.114555)
 
 ### 2022
 
